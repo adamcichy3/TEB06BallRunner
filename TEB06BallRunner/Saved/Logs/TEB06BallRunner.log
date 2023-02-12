@@ -1,0 +1,1178 @@
+﻿Log file open, 02/12/23 16:22:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TEB06BallRunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.502587
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=Gizd -epicuserid=2361f7104f7040968681f2ece7f0605e -epiclocale=pl -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Engine.ini]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Engine.ini]
+[2023.02.12-15.22.15:883][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Engine.ini]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.12-15.22.15:883][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Engine.ini]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.02.12-15.22.15:884][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Engine.ini]
+[2023.02.12-15.22.15:884][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Engine.ini]
+[2023.02.12-15.22.15:952][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.12-15.22.15:952][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.12-15.22.15:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.12-15.22.15:954][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.12-15.22.15:954][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.12-15.22.15:954][  0]LogHAL: Display: Platform has ~ 16 GB [17137963008 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.12-15.22.15:954][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.12-15.22.15:954][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.12-15.22.15:954][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Scalability.ini]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.12-15.22.15:955][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.12-15.22.15:956][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.12-15.22.15:956][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.12-15.22.15:956][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.02.12-15.22.15:956][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Engine.ini]
+[2023.02.12-15.22.15:956][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Config/Windows/Editor.ini]
+[2023.02.12-15.22.15:956][  0]LogInit: Computer: DESKTOP-RG6CU11
+[2023.02.12-15.22.15:956][  0]LogInit: User: admin
+[2023.02.12-15.22.15:956][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.02.12-15.22.15:956][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.12-15.22.15:956][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2023.02.12-15.22.15:956][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.12-15.22.15:956][  0]LogMemory: Process Physical Memory: 143.38 MB used, 143.38 MB peak
+[2023.02.12-15.22.15:956][  0]LogMemory: Process Virtual Memory: 121.18 MB used, 121.18 MB peak
+[2023.02.12-15.22.15:956][  0]LogMemory: Physical Memory: 9604.21 MB used,  6739.82 MB free, 16344.04 MB total
+[2023.02.12-15.22.15:956][  0]LogMemory: Virtual Memory: 134208896.00 MB used,  8829.38 MB free, 134217728.00 MB total
+[2023.02.12-15.22.15:962][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.12-15.22.15:987][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.02.12-15.22.15:988][  0]LogInit: Using OS detected language (pl-PL).
+[2023.02.12-15.22.15:988][  0]LogInit: Using OS detected locale (pl-PL).
+[2023.02.12-15.22.15:992][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2023.02.12-15.22.15:992][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2023.02.12-15.22.15:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2023.02.12-15.22.15:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2023.02.12-15.22.15:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2023.02.12-15.22.15:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2023.02.12-15.22.15:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2023.02.12-15.22.15:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2023.02.12-15.22.15:994][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.12-15.22.16:006][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.12-15.22.16:022][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.12-15.22.16:022][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.12-15.22.16:219][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.02.12-15.22.16:222][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.12-15.22.16:223][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.12-15.22.16:223][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.12-15.22.16:223][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.12-15.22.16:349][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2023.02.12-15.22.16:349][  0]LogD3D11RHI:       4043/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.02.12-15.22.16:352][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.12-15.22.16:352][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.12-15.22.16:352][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.02.12-15.22.16:352][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 970
+[2023.02.12-15.22.16:352][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.12-15.22.16:352][  0]LogD3D11RHI:     DeviceId    : 13c2
+[2023.02.12-15.22.16:352][  0]LogD3D11RHI:     SubSysId    : 31601462
+[2023.02.12-15.22.16:352][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.12-15.22.16:352][  0]LogD3D11RHI:     DedicatedVideoMemory : 4239654912 bytes
+[2023.02.12-15.22.16:352][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.12-15.22.16:352][  0]LogD3D11RHI:     SharedSystemMemory : 8568981504 bytes
+[2023.02.12-15.22.16:352][  0]LogD3D11RHI:     AdapterLuid : 0 57115
+[2023.02.12-15.22.16:362][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.12-15.22.16:362][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.12-15.22.16:362][  0]LogWindows: EnumDisplayDevices:
+[2023.02.12-15.22.16:362][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2023.02.12-15.22.16:363][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2023.02.12-15.22.16:363][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2023.02.12-15.22.16:364][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2023.02.12-15.22.16:364][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.02.12-15.22.16:364][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 970
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI:     DeviceId    : 13c2
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI:     SubSysId    : 31601462
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI:     DedicatedVideoMemory : 4239654912 bytes
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI:     SharedSystemMemory : 8568981504 bytes
+[2023.02.12-15.22.16:364][  0]LogD3D11RHI:     AdapterLuid : 0 57115
+[2023.02.12-15.22.16:498][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.02.12-15.22.16:503][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.12-15.22.16:503][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.12-15.22.16:505][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2023.02.12-15.22.16:525][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.02.12-15.22.16:581][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.02.12-15.22.17:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.02.12-15.22.17:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.12-15.22.17:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.12-15.22.17:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.12-15.22.17:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.12-15.22.17:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.12-15.22.17:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.12-15.22.17:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.12-15.22.17:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.12-15.22.17:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.12-15.22.17:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.12-15.22.17:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.12-15.22.17:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.12-15.22.17:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.12-15.22.17:249][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.12-15.22.17:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.12-15.22.17:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.12-15.22.17:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.02.12-15.22.17:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.02.12-15.22.17:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.02.12-15.22.17:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.12-15.22.17:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.12-15.22.17:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.02.12-15.22.17:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.02.12-15.22.17:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.02.12-15.22.17:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.02.12-15.22.17:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.12-15.22.17:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.12-15.22.17:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.12-15.22.17:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.12-15.22.17:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.12-15.22.17:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.12-15.22.17:402][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.12-15.22.17:411][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.12-15.22.17:450][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.02.12-15.22.17:486][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.12-15.22.17:486][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Intermediate/Shaders/WorkingDirectory/12276/).
+[2023.02.12-15.22.17:487][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin/AppData/Local/Temp/UnrealShaderWorkingDir/3F960F89432B6FC3FE6FB5BBB773F9F0/'.
+[2023.02.12-15.22.17:487][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.12-15.22.17:487][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.12-15.22.17:487][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.12-15.22.18:497][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.12-15.22.18:595][  0]LogDerivedDataCache: Loaded boot cache 0.10s 94MB C:/Users/admin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.12-15.22.18:595][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.02.12-15.22.18:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.12-15.22.18:595][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.12-15.22.18:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.12-15.22.18:595][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.12-15.22.18:616][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.12-15.22.18:616][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.12-15.22.18:616][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.12-15.22.18:627][  0]LogDerivedDataCache: Speed tests for C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.02.12-15.22.18:627][  0]LogDerivedDataCache: Display: Performance to C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=183.39MBs, RandomWriteSpeed=182.92MBs. Assigned SpeedClass 'Local'
+[2023.02.12-15.22.18:628][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.12-15.22.18:628][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.12-15.22.18:628][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.12-15.22.18:688][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.12-15.22.18:688][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.12-15.22.18:725][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
+[2023.02.12-15.22.19:037][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.12-15.22.19:037][  0]LogInit: Active device profile: [0000021D2EE7D300][0000021D2D470140 49] Windows
+[2023.02.12-15.22.19:038][  0]LogInit: Profiles: [0000021D2EE7D300][0000021D2D470140 49] Windows, [0000021D2EE52600][0000021D2D4782C0 49] WindowsNoEditor, [0000021D2EE7E500][0000021D2D47C440 49] WindowsServer, [0000021D2EE53400][0000021D2D4805C0 49] WindowsClient, [0000021D2EE7F200][0000021D2D484740 49] IOS, [0000021D2EE53D00][0000021D2D4888C0 49] iPadAir, [0000021D2EE7E900][0000021D2D48CA40 49] iPadAir2, [0000021D2EDEDC00][0000021D2D490C80 49] IPadPro, [0000021D2EDEDD00][0000021D2D474CC0 49] iPadAir3, [0000021D2EE53A00][0000021D2D494E00 49] iPadAir4, [0000021D2EDEEC00][0000021D2D498F40 49] iPadMini2, [0000021D2EE51400][0000021D289710C0 49] iPadMini3, [0000021D2EDECB00][0000021D28975240 49] iPadMini4, [0000021D2EE53E00][0000021D289793C0 49] iPadMini5, [0000021D2EE15300][0000021D28981680 49] iPhone6, [0000021D2EE15400][0000021D2897D6C0 49] iPodTouch6, [0000021D2EE7D600][0000021D28989980 49] iPhone7, [0000021D2EE7EB00][0000021D289859C0 49] iPodTouch7, [0000021D2EDEFB00][0000021D2898DB40 49] iPhone5S, [0000021D2EE7D800][0000021D28990140 49] iPhone6Plus, [0000021D2EDEF000][0000021D289942C0 49] iPhone6S, [0000021D2EE7FB00][0000021D28998440 49] iPhone6SPlus, [0000021D2EDED500][0000021D2899C5C0 49] iPhone7Plus, [0000021D2EE7C100][0000021D289A0740 49] iPhoneSE, [0000021D2EE7CB00][0000021D289A48C0 49] iPhone8, [0000021D2EE14800][0000021D289A8A40 49] iPhone8Plus, [0000021D2EE7D400][0000021D289ACBC0 49] iPhoneX, [0000021D2EE14F00][0000021D289B0D40 49] iPhoneXS, [0000021D2EE7F700][0000021D2D49CE80 49] iPhoneXSMax, [0000021D2EE17100][0000021D289B4FC0 49] iPhoneXR, [0000021D2EE7F800][0000021D289B9100 49] iPhone11, [0000021D2EE17D00][0000021D30071280 49] iPhone11Pro, [0000021D2EDEE700][0000021D30075400 49] iPhone11ProMax, [0000021D2EE14600][0000021D30079580 49] iPhoneSE2, [0000021D2EDEE100][0000021D3007D700 49] iPhone12Mini, [0000021D2EE17800][0000021D30081880 49] iPhone12, [0000021D2EDEDA00][0000021D30085A00 49] iPhone12Pro, [0000021D2EE15E00][0000021D30089B80 49] iPhone12ProMax, [0000021D2EDEFF00][0000021D3008C180 49] iPadPro105, [0000021D2EE17400][0000021D30090300 49] iPadPro129, [0000021D2EDEF700][0000021D30094480 49] iPadPro97, [0000021D2EE16200][0000021D30098600 49] iPadPro2_129, [0000021D2EDED600][0000021D3009C780 49] iPad5, [0000021D2EE14C00][0000021D300A0900 49] iPad6, [0000021D2EDEE500][0000021D300A4A80 49] iPad7, [0000021D2EE16B00][0000021D300A8C00 49] iPad8, [0000021D2EDED300][0000021D300ACD80 49] iPadPro11, [0000021D2EE17E00][0000021D300B0F00 49] iPadPro2_11, [0000021D2EDEE000][0000021D3006D040 49] iPadPro3_129, [0000021D2EE14100][0000021D300B5180 49] iPadPro4_129, [0000021D2EDECF00][0000021D300B92C0 49] AppleTV, [0000021D2EE17B00][0000021D300C1440 49] AppleTV4K, [0000021D2EDED800][0000021D300C55C0 49] TVOS, [0000021D2EE14400][0000021D300C9740 49] Mac, [0000021D2EDEF400][0000021D300CD8C0 49] MacClient, [0000021D2EE16800][0000021D300D1A40 49] MacNoEditor, [0000021D2EDEED00][0000021D300D5BC0 49] MacServer, [0000021D2EE15900][0000021D300D81C0 49] Linux, [0000021D2EDEF200][0000021D300DC340 49] LinuxAArch64, [0000021D2EE16000][0000021D300E04C0 49] LinuxNoEditor, [0000021D2EDEE800][0000021D300E4640 49] LinuxAArch64NoEditor, [0000021D2EE14A00][0000021D300E87C0 49] LinuxClient, [0000021D2EDEC500][0000021D300EC940 49] LinuxAArch64Client, [0000021D2EE16100][0000021D300F0AC0 49] LinuxServer, [0000021D2EDEF100][0000021D300F4C40 49] LinuxAArch64Server, [0000021D2EE16E00][0000021D300F8DC0 49] Android, [0000021D2EDEF500][0000021D300FCF40 49] Android_Low, [0000021D2EE14900][0000021D301010C0 49] Android_Mid, [0000021D2EDEFA00][0000021D300BD200 49] Android_High, [0000021D2EE15700][0000021D30105340 49] Android_Default, [0000021D2EDEC300][0000021D30109480 49] Android_Adreno4xx, [0000021D2EE14E00][0000021D3010D5C0 49] Android_Adreno5xx_Low, [0000021D2EDECE00][0000021D30115740 49] Android_Adreno5xx, [0000021D2EE17300][0000021D301198C0 49] Android_Adreno6xx, [0000021D2EDEE600][0000021D3011DA40 49] Android_Adreno6xx_Vulkan, [0000021D2EE16400][0000021D30121BC0 49] Android_Mali_T6xx, [0000021D2EDEFE00][0000021D301241C0 49] Android_Mali_T7xx, [0000021D2EE14500][0000021D30128340 49] Android_Mali_T8xx, [0000021D2EDEF300][0000021D3012C4C0 49] Android_Mali_G71, [0000021D2EE17600][0000021D30130640 49] Android_Mali_G72, [0000021D2EDEDB00][0000021D301347C0 49] Android_Mali_G72_Vulkan, [0000021D2EE16C00][0000021D30138940 49] Android_Mali_G76, [0000021D2EDEEF00][0000021D3013CAC0 49] Android_Mali_G76_Vulkan, [0000021D2EE7C300][0000021D30140C40 49] Android_Mali_G77, [0000021D2EE52D00][0000021D30144DC0 49] Android_Mali_G77_Vulkan, [0000021D2EE7EA00][0000021D30148F40 49] Android_Mali_G78, [0000021D2EE53900][0000021D3014D0C0 49] Android_Mali_G78_Vulkan, [0000021D2EE7C900][0000021D30151240 49] Android_Mali_G710, [0000021D2EE52400][0000021D30111380 49] Android_Mali_G710_Vulkan, [0000021D2EE7F300][0000021D301554C0 49] Android_Vulkan_SM5, [0000021D2EE53C00][0000021D30159600 49] Android_PowerVR_G6xxx, [0000021D2EE7C600][0000021D3015D740 49] Android_PowerVR_GT7xxx, [0000021D2EE52F00][0000021D301658C0 49] Android_PowerVR_GE8xxx, [0000021D2EE7E000][0000021D30169A40 49] Android_PowerVR_GM9xxx, [0000021D2EE52700][0000021D3016DBC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000021D2EE7F600][0000021D301701C0 49] Android_TegraK1, [0000021D2EE51000][0000021D30174340 49] Android_Unknown_Vulkan, [0000021D2EE7E100][0000021D301784C0 49] Lumin, [0000021D2EE53F00][0000021D3017C640 49] Lumin_Desktop, [0000021D2EE7DD00][0000021D301807C0 49] HoloLens, 
+[2023.02.12-15.22.19:196][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.12-15.22.19:196][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.12-15.22.19:196][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.12-15.22.19:196][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.12-15.22.19:196][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.12-15.22.19:219][  0]LogNetVersion: TEB06BallRunner 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3112707024)
+[2023.02.12-15.22.19:773][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.12-15.22.19:859][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.02.12-15.22.19:866][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.02.12-15.22.19:867][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.02.12-15.22.19:867][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.12-15.22.20:214][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0E156028466F7B67506AFCA6645C2A6E | Instance: 7C7BEDC0437D49878C94D2A0A6AFECBA (DESKTOP-RG6CU11-12276).
+[2023.02.12-15.22.20:255][  0]LogPython: Using Python 3.7.7
+[2023.02.12-15.22.21:138][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.12-15.22.21:163][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.12-15.22.21:337][  0]SourceControl: Source control is disabled
+[2023.02.12-15.22.21:337][  0]SourceControl: Source control is disabled
+[2023.02.12-15.22.21:341][  0]SourceControl: Source control is disabled
+[2023.02.12-15.22.21:344][  0]SourceControl: Source control is disabled
+[2023.02.12-15.22.21:356][  0]SourceControl: Source control is disabled
+[2023.02.12-15.22.21:597][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.12-15.22.21:653][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.12-15.22.21:681][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.12-15.22.21:681][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.12-15.22.21:846][  0]LogUProjectInfo: Found projects:
+[2023.02.12-15.22.21:870][  0]LogCollectionManager: Loaded 0 collections in 0.002209 seconds
+[2023.02.12-15.22.21:908][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Collections/' took 0.00s
+[2023.02.12-15.22.21:908][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/Developers/admin/Collections/' took 0.00s
+[2023.02.12-15.22.21:908][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/Collections/' took 0.00s
+[2023.02.12-15.22.21:908][  0]LogOcInput: OculusInput pre-init called
+[2023.02.12-15.22.22:235][  0]LogEngine: Initializing Engine...
+[2023.02.12-15.22.22:305][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.02.12-15.22.22:305][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.12-15.22.22:305][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.02.12-15.22.22:307][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.12-15.22.22:542][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.12-15.22.22:553][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.12-15.22.22:555][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.12-15.22.22:560][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.12-15.22.22:561][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.12-15.22.22:562][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.12-15.22.22:562][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.12-15.22.22:562][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.12-15.22.22:562][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.12-15.22.22:562][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.12-15.22.22:562][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.12-15.22.22:562][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.12-15.22.22:562][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.12-15.22.22:562][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.12-15.22.22:562][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.12-15.22.22:562][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.12-15.22.22:563][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.12-15.22.22:563][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.12-15.22.22:563][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.12-15.22.22:584][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.12-15.22.22:584][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.12-15.22.22:646][  0]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2023.02.12-15.22.22:650][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.12-15.22.22:655][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.12-15.22.22:655][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.12-15.22.22:657][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.12-15.22.22:658][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.12-15.22.22:658][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.12-15.22.22:659][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.12-15.22.22:659][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.12-15.22.22:659][  0]LogInit: FAudioDevice initialized.
+[2023.02.12-15.22.22:659][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.12-15.22.22:660][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.12-15.22.22:755][  0]LogDerivedDataCache: Saved boot cache 0.10s 94MB C:/Users/admin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.12-15.22.22:756][  0]LogInit: Texture streaming: Enabled
+[2023.02.12-15.22.22:772][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.02.12-15.22.22:777][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.12-15.22.22:777][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.02.12-15.22.22:779][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.02.12-15.22.22:799][  0]LogInit: Transaction tracking system initialized
+[2023.02.12-15.22.22:822][  0]BlueprintLog: New page: Editor Load
+[2023.02.12-15.22.22:914][  0]LocalizationService: Localization service is disabled
+[2023.02.12-15.22.22:941][  0]TimingProfiler: Initialize
+[2023.02.12-15.22.22:941][  0]TimingProfiler: OnSessionChanged
+[2023.02.12-15.22.22:941][  0]LoadingProfiler: Initialize
+[2023.02.12-15.22.22:941][  0]LoadingProfiler: OnSessionChanged
+[2023.02.12-15.22.22:941][  0]NetworkingProfiler: Initialize
+[2023.02.12-15.22.22:941][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.12-15.22.22:941][  0]MemoryProfiler: Initialize
+[2023.02.12-15.22.22:941][  0]MemoryProfiler: OnSessionChanged
+[2023.02.12-15.22.23:165][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.12-15.22.23:165][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.12-15.22.23:319][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/' took 0.00s
+[2023.02.12-15.22.23:706][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.12-15.22.23:711][  0]SourceControl: Source control is disabled
+[2023.02.12-15.22.23:711][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.767
+[2023.02.12-15.22.23:794][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.02.12-15.22.23:795][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.12-15.22.23:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.23:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.12-15.22.23:811][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.02.12-15.22.23:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2023.02.12-15.22.23:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2023.02.12-15.22.23:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2023.02.12-15.22.23:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2023.02.12-15.22.23:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2023.02.12-15.22.23:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2023.02.12-15.22.23:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2023.02.12-15.22.23:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2023.02.12-15.22.23:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2023.02.12-15.22.23:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2023.02.12-15.22.23:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2023.02.12-15.22.23:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Collapse01.uasset"
+[2023.02.12-15.22.23:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Collapse02.uasset"
+[2023.02.12-15.22.23:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2023.02.12-15.22.24:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Explosion01.uasset"
+[2023.02.12-15.22.24:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Explosion02.uasset"
+[2023.02.12-15.22.24:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2023.02.12-15.22.24:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Fire01.uasset"
+[2023.02.12-15.22.24:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2023.02.12-15.22.24:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2023.02.12-15.22.24:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2023.02.12-15.22.24:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Light01.uasset"
+[2023.02.12-15.22.24:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2023.02.12-15.22.24:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Light02.uasset"
+[2023.02.12-15.22.24:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2023.02.12-15.22.24:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Smoke01.uasset"
+[2023.02.12-15.22.24:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2023.02.12-15.22.24:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2023.02.12-15.22.24:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2023.02.12-15.22.24:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2023.02.12-15.22.24:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2023.02.12-15.22.24:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2023.02.12-15.22.24:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2023.02.12-15.22.24:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Steam01.uasset"
+[2023.02.12-15.22.24:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2023.02.12-15.22.24:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2023.02.12-15.22.24:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2023.02.12-15.22.24:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2023.02.12-15.22.24:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2023.02.12-15.22.24:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2023.02.12-15.22.24:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2023.02.12-15.22.24:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2023.02.12-15.22.24:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2023.02.12-15.22.24:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2023.02.12-15.22.24:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2023.02.12-15.22.24:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2023.02.12-15.22.24:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2023.02.12-15.22.24:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2023.02.12-15.22.24:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2023.02.12-15.22.24:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2023.02.12-15.22.24:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2023.02.12-15.22.24:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2023.02.12-15.22.24:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2023.02.12-15.22.24:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2023.02.12-15.22.24:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Maps/Minimal_Default.umap"
+[2023.02.12-15.22.24:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2023.02.12-15.22.24:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Maps/StarterMap.umap"
+[2023.02.12-15.22.24:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2023.02.12-15.22.24:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2023.02.12-15.22.24:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2023.02.12-15.22.24:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2023.02.12-15.22.24:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2023.02.12-15.22.24:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2023.02.12-15.22.24:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2023.02.12-15.22.24:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2023.02.12-15.22.24:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2023.02.12-15.22.24:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2023.02.12-15.22.24:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2023.02.12-15.22.24:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2023.02.12-15.22.24:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2023.02.12-15.22.24:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2023.02.12-15.22.24:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2023.02.12-15.22.24:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2023.02.12-15.22.24:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2023.02.12-15.22.24:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2023.02.12-15.22.24:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Glass.uasset"
+[2023.02.12-15.22.24:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2023.02.12-15.22.24:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2023.02.12-15.22.24:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2023.02.12-15.22.24:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2023.02.12-15.22.24:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2023.02.12-15.22.24:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2023.02.12-15.22.24:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2023.02.12-15.22.24:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2023.02.12-15.22.24:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2023.02.12-15.22.24:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2023.02.12-15.22.24:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2023.02.12-15.22.24:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2023.02.12-15.22.24:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2023.02.12-15.22.24:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2023.02.12-15.22.24:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2023.02.12-15.22.24:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2023.02.12-15.22.24:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2023.02.12-15.22.24:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2023.02.12-15.22.24:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2023.02.12-15.22.24:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2023.02.12-15.22.24:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2023.02.12-15.22.25:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2023.02.12-15.22.25:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2023.02.12-15.22.25:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2023.02.12-15.22.25:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2023.02.12-15.22.25:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2023.02.12-15.22.25:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/P_Explosion.uasset"
+[2023.02.12-15.22.25:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/P_Fire.uasset"
+[2023.02.12-15.22.25:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/P_Smoke.uasset"
+[2023.02.12-15.22.25:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/P_Sparks.uasset"
+[2023.02.12-15.22.25:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2023.02.12-15.22.25:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2023.02.12-15.22.25:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2023.02.12-15.22.25:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2023.02.12-15.22.25:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2023.02.12-15.22.25:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2023.02.12-15.22.25:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2023.02.12-15.22.25:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2023.02.12-15.22.25:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2023.02.12-15.22.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2023.02.12-15.22.25:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2023.02.12-15.22.25:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/MaterialSphere.uasset"
+[2023.02.12-15.22.25:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_Bush.uasset"
+[2023.02.12-15.22.25:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_Chair.uasset"
+[2023.02.12-15.22.25:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2023.02.12-15.22.25:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_Couch.uasset"
+[2023.02.12-15.22.25:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_Door.uasset"
+[2023.02.12-15.22.25:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2023.02.12-15.22.25:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2023.02.12-15.22.25:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2023.02.12-15.22.25:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2023.02.12-15.22.25:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2023.02.12-15.22.25:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2023.02.12-15.22.25:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2023.02.12-15.22.25:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_Rock.uasset"
+[2023.02.12-15.22.25:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_Shelf.uasset"
+[2023.02.12-15.22.25:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_Stairs.uasset"
+[2023.02.12-15.22.25:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_Statue.uasset"
+[2023.02.12-15.22.25:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_TableRound.uasset"
+[2023.02.12-15.22.25:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2023.02.12-15.22.25:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2023.02.12-15.22.25:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2023.02.12-15.22.25:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2023.02.12-15.22.25:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2023.02.12-15.22.25:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2023.02.12-15.22.25:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2023.02.12-15.22.25:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2023.02.12-15.22.25:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2023.02.12-15.22.25:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2023.02.12-15.22.25:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2023.02.12-15.22.25:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2023.02.12-15.22.25:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2023.02.12-15.22.25:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2023.02.12-15.22.25:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2023.02.12-15.22.25:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2023.02.12-15.22.25:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2023.02.12-15.22.25:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2023.02.12-15.22.25:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2023.02.12-15.22.25:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2023.02.12-15.22.25:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2023.02.12-15.22.25:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2023.02.12-15.22.25:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2023.02.12-15.22.25:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2023.02.12-15.22.25:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2023.02.12-15.22.25:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2023.02.12-15.22.25:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2023.02.12-15.22.25:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2023.02.12-15.22.25:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2023.02.12-15.22.25:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2023.02.12-15.22.25:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2023.02.12-15.22.25:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2023.02.12-15.22.25:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2023.02.12-15.22.25:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2023.02.12-15.22.25:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2023.02.12-15.22.25:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2023.02.12-15.22.25:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2023.02.12-15.22.25:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2023.02.12-15.22.25:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2023.02.12-15.22.25:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2023.02.12-15.22.25:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2023.02.12-15.22.26:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2023.02.12-15.22.26:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2023.02.12-15.22.26:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2023.02.12-15.22.26:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2023.02.12-15.22.26:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2023.02.12-15.22.26:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2023.02.12-15.22.26:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2023.02.12-15.22.26:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2023.02.12-15.22.26:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2023.02.12-15.22.26:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2023.02.12-15.22.26:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2023.02.12-15.22.26:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2023.02.12-15.22.26:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2023.02.12-15.22.26:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2023.02.12-15.22.26:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2023.02.12-15.22.26:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2023.02.12-15.22.26:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2023.02.12-15.22.26:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2023.02.12-15.22.26:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2023.02.12-15.22.26:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2023.02.12-15.22.26:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2023.02.12-15.22.26:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2023.02.12-15.22.26:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2023.02.12-15.22.26:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2023.02.12-15.22.26:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2023.02.12-15.22.26:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2023.02.12-15.22.26:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2023.02.12-15.22.26:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2023.02.12-15.22.26:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2023.02.12-15.22.26:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2023.02.12-15.22.26:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Door_M.uasset"
+[2023.02.12-15.22.26:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Door_N.uasset"
+[2023.02.12-15.22.26:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2023.02.12-15.22.26:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2023.02.12-15.22.26:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2023.02.12-15.22.26:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2023.02.12-15.22.26:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2023.02.12-15.22.26:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2023.02.12-15.22.26:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2023.02.12-15.22.26:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2023.02.12-15.22.27:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2023.02.12-15.22.27:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2023.02.12-15.22.27:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2023.02.12-15.22.27:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2023.02.12-15.22.27:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2023.02.12-15.22.27:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2023.02.12-15.22.27:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2023.02.12-15.22.27:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2023.02.12-15.22.27:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2023.02.12-15.22.27:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2023.02.12-15.22.27:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2023.02.12-15.22.27:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2023.02.12-15.22.27:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2023.02.12-15.22.27:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2023.02.12-15.22.27:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2023.02.12-15.22.27:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2023.02.12-15.22.27:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2023.02.12-15.22.27:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2023.02.12-15.22.27:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2023.02.12-15.22.27:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2023.02.12-15.22.27:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2023.02.12-15.22.27:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2023.02.12-15.22.27:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2023.02.12-15.22.27:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2023.02.12-15.22.27:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2023.02.12-15.22.27:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2023.02.12-15.22.27:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2023.02.12-15.22.27:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2023.02.12-15.22.27:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2023.02.12-15.22.27:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2023.02.12-15.22.27:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2023.02.12-15.22.27:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2023.02.12-15.22.28:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2023.02.12-15.22.28:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2023.02.12-15.22.28:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2023.02.12-15.22.28:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2023.02.12-15.22.28:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2023.02.12-15.22.28:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2023.02.12-15.22.28:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2023.02.12-15.22.28:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2023.02.12-15.22.28:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2023.02.12-15.22.28:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2023.02.12-15.22.28:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2023.02.12-15.22.28:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Water_M.uasset"
+[2023.02.12-15.22.28:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Water_N.uasset"
+[2023.02.12-15.22.28:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2023.02.12-15.22.28:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2023.02.12-15.22.28:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2023.02.12-15.22.28:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2023.02.12-15.22.28:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2023.02.12-15.22.28:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2023.02.12-15.22.28:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2023.02.12-15.22.28:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2023.02.12-15.22.28:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2023.02.12-15.22.29:183][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2023.02.12-15.22.29:648][  0]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Saved/Floor_400x400DC89444245DF638958C9D796D13DACFF.tmp' to '../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2023.02.12-15.22.29:651][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2023.02.12-15.22.29:652][  0]Cmd: MAP LOAD FILE="../../../../../../Users/admin/Documents/GitHub/TEB06BallRunner/TEB06BallRunner/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.12-15.22.29:652][  0]LightingResults: New page: Lighting Build
+[2023.02.12-15.22.29:654][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.12-15.22.29:654][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-15.22.29:654][  0]MapCheck: New page: Map Check
+[2023.02.12-15.22.29:654][  0]LightingResults: New page: Lighting Build
+[2023.02.12-15.22.29:858][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.12-15.22.29:865][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.02.12-15.22.30:098][  0]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2023.02.12-15.22.30:105][  0]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2023.02.12-15.22.30:202][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2023.02.12-15.22.30:203][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.02.12-15.22.30:259][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.12-15.22.30:734][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.12-15.22.30:735][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.12-15.22.30:735][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,256ms to complete.
+[2023.02.12-15.22.30:735][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.082
+[2023.02.12-15.22.30:738][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.792
+[2023.02.12-15.22.30:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-15.22.30:982][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-15.22.30:990][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-15.22.30:998][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-15.22.31:072][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0142 seconds. Added 3822 classes and 928 folders.
+[2023.02.12-15.22.31:086][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.12-15.22.31:088][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.12-15.22.31:088][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:088][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.12-15.22.31:088][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:088][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.02.12-15.22.31:088][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.02.12-15.22.31:089][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.12-15.22.31:089][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:089][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.12-15.22.31:089][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:089][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.02.12-15.22.31:089][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.02.12-15.22.31:090][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.12-15.22.31:090][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:090][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.12-15.22.31:090][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:090][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.02.12-15.22.31:090][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.02.12-15.22.31:091][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.12-15.22.31:092][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:092][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.12-15.22.31:092][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:092][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.02.12-15.22.31:092][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2023.02.12-15.22.31:093][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.12-15.22.31:093][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:093][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.12-15.22.31:093][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:093][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.02.12-15.22.31:093][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.02.12-15.22.31:093][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.12-15.22.31:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.12-15.22.31:094][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:094][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.02.12-15.22.31:094][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.02.12-15.22.31:094][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.12-15.22.31:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.12-15.22.31:094][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:094][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.02.12-15.22.31:094][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.02.12-15.22.31:095][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.12-15.22.31:095][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:095][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.12-15.22.31:095][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:095][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.02.12-15.22.31:095][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.02.12-15.22.31:096][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.12-15.22.31:096][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:096][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.12-15.22.31:096][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:096][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.02.12-15.22.31:096][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.02.12-15.22.31:097][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.12-15.22.31:097][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:097][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.12-15.22.31:097][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:097][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.02.12-15.22.31:097][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2023.02.12-15.22.31:098][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.12-15.22.31:098][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:098][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.12-15.22.31:098][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.02.12-15.22.31:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.02.12-15.22.31:099][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.12-15.22.31:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.12-15.22.31:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.02.12-15.22.31:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.12-15.22.31:100][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.12-15.22.31:100][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:100][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.12-15.22.31:100][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:100][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.02.12-15.22.31:100][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.02.12-15.22.31:101][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.12-15.22.31:101][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:101][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.12-15.22.31:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.02.12-15.22.31:101][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.02.12-15.22.31:101][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.12-15.22.31:101][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:101][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.12-15.22.31:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.02.12-15.22.31:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2023.02.12-15.22.31:102][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.12-15.22.31:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.12-15.22.31:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.02.12-15.22.31:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.02.12-15.22.31:103][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.12-15.22.31:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.12-15.22.31:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.02.12-15.22.31:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.12-15.22.31:104][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.12-15.22.31:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.12-15.22.31:104][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:104][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.02.12-15.22.31:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.02.12-15.22.31:105][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.12-15.22.31:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.12-15.22.31:105][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:105][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.02.12-15.22.31:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.12-15.22.31:106][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.12-15.22.31:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.12-15.22.31:106][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:106][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.02.12-15.22.31:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.02.12-15.22.31:106][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.12-15.22.31:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.12-15.22.31:106][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.02.12-15.22.31:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2023.02.12-15.22.31:107][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.12-15.22.31:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.12-15.22.31:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.02.12-15.22.31:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.02.12-15.22.31:108][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.12-15.22.31:108][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:108][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.12-15.22.31:108][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:108][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.02.12-15.22.31:108][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.02.12-15.22.31:109][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.12-15.22.31:109][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:109][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.12-15.22.31:109][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:109][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.02.12-15.22.31:109][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.02.12-15.22.31:110][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.12-15.22.31:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.12-15.22.31:110][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:110][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.02.12-15.22.31:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.02.12-15.22.31:110][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.12-15.22.31:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.12-15.22.31:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.12-15.22.31:110][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.12-15.22.31:110][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.02.12-15.22.31:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.02.12-15.22.31:169][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.02.12-15.22.31:182][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.02.12-15.22.31:333][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.12-15.22.31:343][  0]LogSlate: Took 0.008175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.12-15.22.31:345][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.12-15.22.31:499][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2023.02.12-15.22.32:389][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.02.12-15.22.32:389][  0]LogLoad: (Engine Initialization) Total time: 20.44 seconds
+[2023.02.12-15.22.32:389][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.12-15.22.32:413][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2023.02.12-15.22.32:413][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.02.12-15.22.32:445][  0]LogAssetRegistry: Asset discovery search completed in 13.7216 seconds
+[2023.02.12-15.22.32:452][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2023.02.12-15.22.32:565][  0]LogContentStreaming: Texture pool size now 1000 MB
